@@ -53,7 +53,7 @@
         android:key="@string/settings_order_date_key"
         android:title="@string/settings_order_date_label" />
 
-    <PreferenceCategory android:title="Customize Styles">
+    <PreferenceCategory android:title="Изменить стиль">
         <ListPreference
             android:defaultValue="@string/settings_color_default"
             android:entries="@array/settings_color_labels"
